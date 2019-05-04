@@ -13,7 +13,7 @@ def first_element(animal)
   animal = cat
       return cat
     end
-    
-    
+
+
   end
 end
