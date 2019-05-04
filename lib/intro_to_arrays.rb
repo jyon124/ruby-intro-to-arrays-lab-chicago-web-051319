@@ -9,5 +9,11 @@ def array_with_two_elements
 end
 
 def first_element(animal)
-
+  cat = ["Chloe", "Luna", "Rose", "Kitty"]
+  animal = cat
+      return cat
+    end
+    
+    
+  end
 end
