@@ -13,3 +13,9 @@ def first_element(animal)
   animal = cat
       return cat
 end
+
+def third_element(food)
+  food = ["orange", "apple", "watermelon", "blueberry"]
+  return food[2]
+end
+
