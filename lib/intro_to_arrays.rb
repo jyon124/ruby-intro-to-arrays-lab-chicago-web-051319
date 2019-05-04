@@ -14,6 +14,6 @@ def first_element(animal)
       return cat
 end
 
-def third_element(Array)
-  return Array[2]
+def third_element(array)
+  return array[2]
 end
