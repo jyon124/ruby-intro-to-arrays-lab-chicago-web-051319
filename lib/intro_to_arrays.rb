@@ -18,4 +18,3 @@ def third_element(food)
   food = ["orange", "apple", "watermelon", "blueberry"]
   return food[2]
 end
-
